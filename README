@@ -1,4 +1,5 @@
-What will or should become a bleeding edge engine for sandbox games. Uses Visual Studio.
+What will or should become a bleeding edge engine for sandbox games. VCPROJ included,
+makefiles planned and cross platform support will be included eventually.
 
 Authors:
 
